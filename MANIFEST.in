@@ -1,0 +1,8 @@
+include README.md
+include LICENSE
+include PUBLISH_TO_PYPI.md
+include INSTALL_OFFLINE.bat
+include INSTALL_OFFLINE.ps1
+include INSTALL_OFFLINE.sh
+recursive-include tests *.py
+recursive-include examples *.py
